@@ -58,3 +58,7 @@ I have long list of 'just ideas' or projects I started but unlikely finish soon.
 
 ### proper lexer-based sourcemaps generation for [jade](https://github.com/sidorares/browserify-jade)
   - https://github.com/sidorares/browserify-jade
+
+### asm.js JIT compiler for node using [jit.js](https://github.com/indutny/jit.js)
+  - also: dynamically generate machine code to read mysql rows in (mysql2)[https://github.com/sidorares/node-mysql2]
+
