@@ -60,5 +60,5 @@ I have long list of 'just ideas' or projects I started but unlikely finish soon.
   - https://github.com/sidorares/browserify-jade
 
 ### asm.js JIT compiler for node using [jit.js](https://github.com/indutny/jit.js)
-  - also: dynamically generate machine code to read mysql rows in (mysql2)[https://github.com/sidorares/node-mysql2]
-
+  - also: dynamically generate machine code to read mysql rows in [mysql2](https://github.com/sidorares/node-mysql2)
+  - https://blog.indutny.com/4.how-to-start-jitting
